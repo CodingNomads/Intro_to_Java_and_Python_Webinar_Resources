@@ -4,7 +4,8 @@ import java.util.Random;
 public class Prime {
 
     public static void main(String[] args) {
-        printPrimes(500);
+       
+	 printPrimes(500);
     }
 
     private static void printPrimes(int high) {
