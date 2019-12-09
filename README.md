@@ -1,6 +1,8 @@
 # CodingNomads Python & Java Webinar Resources
 
-This project was created to support a [live webinar which you can view here](https://choosealicense.com/licenses/mit/)
+This project was created to support a live webinar "How to Build a Simple Program in Java / Python + Git & GitHub" [which you can view here](https://www.youtube.com/watch?v=hEtkrxMDgiw)
+
+[![VIDEO IMAGE ALT TEXT](https://img.youtube.com/vi/hEtkrxMDgiw/0.jpg)](https://www.youtube.com/watch?v=hEtkrxMDgiw)
 
 In the video, we discuss the following topics:
 * Installing Java
