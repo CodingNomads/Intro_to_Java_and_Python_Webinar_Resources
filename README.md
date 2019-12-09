@@ -16,6 +16,10 @@ In the video, we discuss the following topics:
 
 Please feel free to follow along in the webinar video!
 
+## Install Links
+* [Java](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+* [Python](https://www.python.org/downloads/)
+* [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ## Setting The System Path
 If the various installations outlined in the webinar do not immediately seem to work for you, you may need to add these elements your system PATH. For instance if the any of the following commands do not work on your *nix system:

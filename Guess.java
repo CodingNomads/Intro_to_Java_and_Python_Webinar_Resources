@@ -19,8 +19,9 @@ public class Guess {
 
         // Initialize an object from the Random class
         Random random = new Random();
-        // Initialize a randon in - this will be the number the player 
-        // is trying to guess
+        
+        // Initialize a randon int less than 10  
+        // this will be the number the player is trying to guess
         int num = random.nextInt(10);
 
         // Initialize a simple boolean to track whether or not 
